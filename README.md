@@ -4,7 +4,7 @@ We use open-source tools like mediapipe and opencv to track climber body poses d
 
 Here is sample video that looks cool:
 
-![exmaple video](./example.webm)
+[![exmaple video](./example.webm)]
 
 And an image also if you dont like moving things:
 
