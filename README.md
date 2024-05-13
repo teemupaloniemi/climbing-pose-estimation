@@ -4,11 +4,11 @@ We use open-source tools like mediapipe and opencv to track climber body poses d
 
 Here is sample video that looks cool:
 
-[![example.webm](./example.gif)](https://github.com/teemupaloniemi/climbing-pose-estimation/assets/113904032/d3a60d57-a39c-4a89-abf7-5bd46c3cbb4c)
+[![example.webm](./examples/example.gif)](https://github.com/teemupaloniemi/climbing-pose-estimation/assets/113904032/d3a60d57-a39c-4a89-abf7-5bd46c3cbb4c)
 
 And an image also if you dont like moving things:
 
-![exmaple image](./example.png)
+![exmaple image](./examples/example.png)
 
 ## Usage
 
