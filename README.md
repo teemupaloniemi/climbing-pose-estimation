@@ -1,4 +1,4 @@
-## Climbing pse estimation
+## Climbing pose estimation
 
 We use open-source tools like mediapipe and opencv to track climber body poses during routes. I saw this on internet and figured it cant be that hard to reproduce. 
 
