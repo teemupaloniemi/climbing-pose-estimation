@@ -9,6 +9,6 @@ Here is an sample photo that looks cool:
 ## Usage
 
 1. install Google mediapipe with `pip3 install mediapipe`
-2. Run with `python3 pose.py
+2. Run with `python3 pose.py`
 
 
