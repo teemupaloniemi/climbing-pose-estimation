@@ -12,7 +12,7 @@ And an image also if you dont like moving things:
 
 ## Usage
 
-1. install Google mediapipe with `pip3 install mediapipe`
+1. install Google mediapipe with `pip3 install mediapipe` and opencv `pip3 install opencv-python`
 2. Run with `python3 pose.py`
 
 
